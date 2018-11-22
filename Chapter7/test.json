@@ -1,0 +1,12 @@
+[
+  {
+    "description":"测试一下400问题",
+    "request":{
+      "uri":"/gettest",
+      "method":"get"
+    },
+    "response":{
+      "text":"哈哈哈"
+    }
+  }
+]
